@@ -1,0 +1,37 @@
+# 🔥 Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔥 Virtual environment
+.venv/
+venv/
+env/
+
+# 🔥 Environment variables (VERY IMPORTANT)
+.env
+
+# 🔥 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🔥 VS Code
+.vscode/
+
+# 🔥 Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# 🔥 Logs
+*.log
+
+# 🔥 Build / dist
+build/
+dist/
+*.egg-info/
+
+# 🔥 uv lock (optional - include if you want reproducibility)
+# uv.lock
+
+# 🔥 Python version
+.python-version
